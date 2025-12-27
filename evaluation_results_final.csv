@@ -1,0 +1,7 @@
+Timestamp,Model,Metric,Value
+2025-12-27 22:05:03,Hybrid,RMSE,1.2147
+2025-12-27 22:05:03,Hybrid,MAE,0.8963
+2025-12-27 22:05:03,Hybrid,Precision@10,0.121
+2025-12-27 22:05:03,Hybrid,Recall@10,0.096
+2025-12-27 22:05:03,Content-based,Precision@10,0.05
+2025-12-27 22:05:03,Content-based,Recall@10,0.0421
